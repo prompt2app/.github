@@ -15,7 +15,7 @@
 | 仓库 Repo | 说明 Description |
 |---|---|
 | [claude-fangfeng](https://github.com/prompt2app/claude-fangfeng) | Claude 防封指南：风控原理、环境检测、指纹浏览器、Claude Code 教程，在线阅读 [claucc.net](https://claucc.net) · Claude anti-ban guide |
-| [prompt2app](https://github.com/prompt2app/prompt2app) | AI 业务应用生成平台（开发中）· AI app builder, in development |
+| [prompt2app](https://github.com/prompt2app/prompt2app) | 🚧 研发中，暂未发布：AI 业务应用生成平台 · In development, not yet released |
 
 ### 🍎 AI 生成的 Mac 应用 · Mac apps built with AI
 
