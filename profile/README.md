@@ -26,7 +26,12 @@ Both macOS apps below were built with AI. Open source and ready to use.
 |---|---|
 | [QuickSwitch](https://github.com/prompt2app/QuickSwitch) | 轻量的 macOS 菜单栏开关工具，点一下切换常用系统设置（One Switch 开源替代）· Menu bar toggles for macOS |
 | [weblink-launcher](https://github.com/prompt2app/weblink-launcher) | 用 Spotlight 快速打开常用网址 · Open your favorite URLs from Spotlight on macOS |
-| [prompt2app](https://github.com/prompt2app/prompt2app) | 🚧 研发中，暂未发布：AI 业务应用生成平台 · In development, not yet released |
+
+### 🚧 研发中 · In development
+
+| 仓库 Repo | 说明 Description |
+|---|---|
+| [prompt2app](https://github.com/prompt2app/prompt2app) | 暂未发布：AI 业务应用生成平台 · Not yet released |
 
 ### 🤝 参与 · Get involved
 
