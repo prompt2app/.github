@@ -15,7 +15,6 @@
 | 仓库 Repo | 说明 Description |
 |---|---|
 | [claude-fangfeng](https://github.com/prompt2app/claude-fangfeng) | Claude 防封指南：风控原理、环境检测、指纹浏览器、Claude Code 教程，在线阅读 [claucc.net](https://claucc.net) · Claude anti-ban guide |
-| [prompt2app](https://github.com/prompt2app/prompt2app) | 🚧 研发中，暂未发布：AI 业务应用生成平台 · In development, not yet released |
 
 ### 🍎 AI 生成的 Mac 应用 · Mac apps built with AI
 
@@ -27,6 +26,7 @@ Both macOS apps below were built with AI. Open source and ready to use.
 |---|---|
 | [QuickSwitch](https://github.com/prompt2app/QuickSwitch) | 轻量的 macOS 菜单栏开关工具，点一下切换常用系统设置（One Switch 开源替代）· Menu bar toggles for macOS |
 | [weblink-launcher](https://github.com/prompt2app/weblink-launcher) | 用 Spotlight 快速打开常用网址 · Open your favorite URLs from Spotlight on macOS |
+| [prompt2app](https://github.com/prompt2app/prompt2app) | 🚧 研发中，暂未发布：AI 业务应用生成平台 · In development, not yet released |
 
 ### 🤝 参与 · Get involved
 
