@@ -8,7 +8,7 @@
 <br/>
 An open-source AI platform that turns plain language into ready-to-run ERP, CRM, OA, inventory and approval-workflow apps.
 
-[官网 Website](https://prompt2app.cn) · [文档 Docs](https://prompt2app.cn/docs) · [在线体验 Live Demo](https://prompt2app.app) · [主仓库 Main Repo](https://github.com/prompt2app/prompt2app)
+[官网 Website](https://prompt2app.cn) · [Claude 防封指南](https://claucc.net) · [文档 Docs](https://prompt2app.cn/docs) · [在线体验 Live Demo](https://prompt2app.app) · [主仓库 Main Repo](https://github.com/prompt2app/prompt2app)
 
 </div>
 
@@ -29,7 +29,10 @@ An open-source AI platform that turns plain language into ready-to-run ERP, CRM,
 
 | 仓库 Repo | 说明 Description |
 |---|---|
-| [prompt2app](https://github.com/prompt2app/prompt2app) | 核心平台 · Core platform |
+| [prompt2app](https://github.com/prompt2app/prompt2app) | 核心平台：一句话生成业务系统 · Core platform |
+| [claude-fangfeng](https://github.com/prompt2app/claude-fangfeng) | Claude 防封指南：风控原理、环境检测、指纹浏览器、Claude Code 教程，在线阅读 [claucc.net](https://claucc.net) · Claude anti-ban guide |
+| [QuickSwitch](https://github.com/prompt2app/QuickSwitch) | 轻量的 macOS 菜单栏开关工具，点一下切换常用系统设置（One Switch 开源替代）· Menu bar toggles for macOS |
+| [weblink-launcher](https://github.com/prompt2app/weblink-launcher) | 用 Spotlight 快速打开常用网址 · Open your favorite URLs from Spotlight on macOS |
 
 ### 🤝 参与 · Get involved
 
